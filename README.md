@@ -1,4 +1,4 @@
-Canteen-Management-System
+# Canteen-Management-System
                                                
 This Canteen Management system is designed to provide fast and easy service to the customers. This project will also allow the user to manage the food items, its sale, and the orders received and executed in a very systematic manner.
 
